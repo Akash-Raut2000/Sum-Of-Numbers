@@ -1,2 +1,1 @@
-# DRF.py
-DRF.py
+Sum of numbers
